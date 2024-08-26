@@ -35,3 +35,7 @@ const myFunction = function () {
 };
 
 console.log(typeof myFunction);
+
+// *************************************************************
+
+// Stack(Primitive) Copy is passed, Heap(Non - Primitive) refrence is passed
